@@ -1,6 +1,6 @@
 {
-	"name": "decodeapp",
-	"description": "decode App",
-	"repository": "https://github.com/username/reponame.git",
+	"name": "User-registration app",
+	"description": "Final OOP application",
+	"repository": "https://github.com/admiralgalaxy27/finaloopapp.git",
 	"image": "heroku/nodejs"
 }
